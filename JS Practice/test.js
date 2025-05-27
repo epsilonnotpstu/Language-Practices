@@ -1,4 +1,4 @@
 function change(){
-    document.getElementById("demo").innerHTML="It changes";
+    document.getElementById("demo").innerHTML=window.alert(5+2);
    
 }
