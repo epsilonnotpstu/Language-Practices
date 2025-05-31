@@ -24,6 +24,21 @@ namespace Helloworld
             lastName = Console.ReadLine();
             name=$"My name is {firstName} {lastName}";
             Console.WriteLine(name);
+            for (int i = 1; i <= 2; ++i)
+            {
+                Console.WriteLine("Outer: " + i);  // Executes 2 times
+
+                // Inner loop
+                for (int j = 1; j <= 3; j++)
+                {
+                    Console.WriteLine(" Inner: " + j); // Executes 6 times (2 * 3)
+                }
+            }
+            string[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
+            foreach (string i in cars)
+            {
+                Console.WriteLine(i);
+            }
         }
     }
 }
