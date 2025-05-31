@@ -1,0 +1,15 @@
+/home/afridi/Documents/Language-Practices/C##/StringLengthCounter1/StringLengthCounter1/bin/Debug/net9.0/StringLengthCounter1
+/home/afridi/Documents/Language-Practices/C##/StringLengthCounter1/StringLengthCounter1/bin/Debug/net9.0/StringLengthCounter1.deps.json
+/home/afridi/Documents/Language-Practices/C##/StringLengthCounter1/StringLengthCounter1/bin/Debug/net9.0/StringLengthCounter1.runtimeconfig.json
+/home/afridi/Documents/Language-Practices/C##/StringLengthCounter1/StringLengthCounter1/bin/Debug/net9.0/StringLengthCounter1.dll
+/home/afridi/Documents/Language-Practices/C##/StringLengthCounter1/StringLengthCounter1/bin/Debug/net9.0/StringLengthCounter1.pdb
+/home/afridi/Documents/Language-Practices/C##/StringLengthCounter1/StringLengthCounter1/obj/Debug/net9.0/StringLengthCounter1.GeneratedMSBuildEditorConfig.editorconfig
+/home/afridi/Documents/Language-Practices/C##/StringLengthCounter1/StringLengthCounter1/obj/Debug/net9.0/StringLengthCounter1.AssemblyInfoInputs.cache
+/home/afridi/Documents/Language-Practices/C##/StringLengthCounter1/StringLengthCounter1/obj/Debug/net9.0/StringLengthCounter1.AssemblyInfo.cs
+/home/afridi/Documents/Language-Practices/C##/StringLengthCounter1/StringLengthCounter1/obj/Debug/net9.0/StringLengthCounter1.csproj.CoreCompileInputs.cache
+/home/afridi/Documents/Language-Practices/C##/StringLengthCounter1/StringLengthCounter1/obj/Debug/net9.0/StringLengthCounter1.sourcelink.json
+/home/afridi/Documents/Language-Practices/C##/StringLengthCounter1/StringLengthCounter1/obj/Debug/net9.0/StringLengthCounter1.dll
+/home/afridi/Documents/Language-Practices/C##/StringLengthCounter1/StringLengthCounter1/obj/Debug/net9.0/refint/StringLengthCounter1.dll
+/home/afridi/Documents/Language-Practices/C##/StringLengthCounter1/StringLengthCounter1/obj/Debug/net9.0/StringLengthCounter1.pdb
+/home/afridi/Documents/Language-Practices/C##/StringLengthCounter1/StringLengthCounter1/obj/Debug/net9.0/StringLengthCounter1.genruntimeconfig.cache
+/home/afridi/Documents/Language-Practices/C##/StringLengthCounter1/StringLengthCounter1/obj/Debug/net9.0/ref/StringLengthCounter1.dll

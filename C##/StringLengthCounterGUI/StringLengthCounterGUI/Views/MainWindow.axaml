@@ -1,0 +1,19 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:vm="clr-namespace:StringLengthCounterGUI.ViewModels"  mc:Ignorable="d" d:DesignWidth="400" d:DesignHeight="200"
+        x:Class="StringLengthCounterGUI.Views.MainWindow"  Title="String Length Counter"
+        Width="400" Height="200"
+        x:DataType="vm:MainWindowViewModel">
+    <Design.DataContext>
+        <vm:MainWindowViewModel />
+    </Design.DataContext>
+
+    <StackPanel Margin="20" Spacing="10" HorizontalAlignment="Center" VerticalAlignment="Center">
+        <TextBlock Text="Enter a string:" FontSize="16" FontWeight="Bold"/>
+        <TextBox Text="{Binding InputString}" Width="250" Watermark="Type your text here..." />
+        <Button Content="Count Length" Command="{Binding CalculateLengthCommand}" />
+        <TextBlock Text="{Binding ResultString}" FontSize="18" FontWeight="SemiBold" Margin="0,10,0,0" />
+    </StackPanel>
+</Window>

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "iuHnJ8UP2dU=",
+  "success": true,
+  "projectFilePath": "/home/afridi/Documents/Language-Practices/C##/StringLengthCounter1/StringLengthCounter1/StringLengthCounter1.csproj",
+  "expectedPackageFiles": [
+    "/home/afridi/.nuget/packages/microsoft.net.illink.tasks/9.0.4/microsoft.net.illink.tasks.9.0.4.nupkg.sha512",
+    "/home/afridi/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/9.0.4/microsoft.netcore.app.runtime.linux-x64.9.0.4.nupkg.sha512",
+    "/home/afridi/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/9.0.4/microsoft.aspnetcore.app.runtime.linux-x64.9.0.4.nupkg.sha512",
+    "/home/afridi/.nuget/packages/microsoft.netcore.app.crossgen2.linux-x64/9.0.4/microsoft.netcore.app.crossgen2.linux-x64.9.0.4.nupkg.sha512",
+    "/home/afridi/.nuget/packages/microsoft.netcore.app.host.linux-x64/9.0.4/microsoft.netcore.app.host.linux-x64.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

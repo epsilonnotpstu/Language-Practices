@@ -1,0 +1,4 @@
+/home/afridi/Documents/Language-Practices/C##/StringLengthCounterGUI/StringLengthCounterGUI/bin/publish-linux/StringLengthCounterGUI.pdb
+/home/afridi/Documents/Language-Practices/C##/StringLengthCounterGUI/StringLengthCounterGUI/bin/publish-linux/libHarfBuzzSharp.so
+/home/afridi/Documents/Language-Practices/C##/StringLengthCounterGUI/StringLengthCounterGUI/bin/publish-linux/libSkiaSharp.so
+/home/afridi/Documents/Language-Practices/C##/StringLengthCounterGUI/StringLengthCounterGUI/bin/publish-linux/StringLengthCounterGUI
