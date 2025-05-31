@@ -1,0 +1,15 @@
+/home/afridi/Documents/Language-Practices/C##/Practice/Practice/obj/Debug/net9.0/Practice.GeneratedMSBuildEditorConfig.editorconfig
+/home/afridi/Documents/Language-Practices/C##/Practice/Practice/obj/Debug/net9.0/Practice.AssemblyInfoInputs.cache
+/home/afridi/Documents/Language-Practices/C##/Practice/Practice/obj/Debug/net9.0/Practice.AssemblyInfo.cs
+/home/afridi/Documents/Language-Practices/C##/Practice/Practice/obj/Debug/net9.0/Practice.csproj.CoreCompileInputs.cache
+/home/afridi/Documents/Language-Practices/C##/Practice/Practice/obj/Debug/net9.0/Practice.sourcelink.json
+/home/afridi/Documents/Language-Practices/C##/Practice/Practice/bin/Debug/net9.0/Practice
+/home/afridi/Documents/Language-Practices/C##/Practice/Practice/bin/Debug/net9.0/Practice.deps.json
+/home/afridi/Documents/Language-Practices/C##/Practice/Practice/bin/Debug/net9.0/Practice.runtimeconfig.json
+/home/afridi/Documents/Language-Practices/C##/Practice/Practice/bin/Debug/net9.0/Practice.dll
+/home/afridi/Documents/Language-Practices/C##/Practice/Practice/bin/Debug/net9.0/Practice.pdb
+/home/afridi/Documents/Language-Practices/C##/Practice/Practice/obj/Debug/net9.0/Practice.dll
+/home/afridi/Documents/Language-Practices/C##/Practice/Practice/obj/Debug/net9.0/refint/Practice.dll
+/home/afridi/Documents/Language-Practices/C##/Practice/Practice/obj/Debug/net9.0/Practice.pdb
+/home/afridi/Documents/Language-Practices/C##/Practice/Practice/obj/Debug/net9.0/Practice.genruntimeconfig.cache
+/home/afridi/Documents/Language-Practices/C##/Practice/Practice/obj/Debug/net9.0/ref/Practice.dll
